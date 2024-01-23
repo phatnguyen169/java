@@ -1,0 +1,17 @@
+
+#heading {
+    color: red;
+}
+.heading{
+    color: black;
+}
+p{
+    color: rgb(201, 195, 195);
+}
+h1{
+    color: white;
+    border: 0ch;
+}
+input{
+    background-color: red;
+}
